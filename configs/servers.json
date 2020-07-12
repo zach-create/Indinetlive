@@ -1,23 +1,4 @@
 [
-{
-        "type": "SourceQuery",
-        "game": "Counter-Strike Global Offensive",
-        "addr": "45.117.204.250",
-        "port": 27115,
-        "channel": 592780245879357442,
-        "country": "IL",
-        "custom": "Join this server now!"
-    },
-	{
-        "type": "SourceQuery",
-        "game": "CALL OF DUTY",
-        "addr": "103.57.241.243",
-        "port": 28911,
-        "channel": 592780245879357442,
-        "country": "IL",
-        "custom": "Join this server now!"
-    }
-
 
 
 ]
