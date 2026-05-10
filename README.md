@@ -2,7 +2,7 @@
 
 # DiscordGSM
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/DiscordGSM/DiscordGSM/)
-[![GitHub license](https://img.shields.io/github/license/DiscordGSM/DiscordGSM.svg)](https://github.com/DiscordGSM/WindowsGSM/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/DiscordGSM/DiscordGSM.svg)] (https://github.com/DiscordGSM/WindowsGSM/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/DiscordGSM/DiscordGSM.svg)](https://github.com/DiscordGSM/WindowsGSM/releases/)
 [![Discord Shield](https://discordapp.com/api/guilds/680159496584429582/widget.png?style=shield)](https://discord.gg/Cg4Au9T)
 
