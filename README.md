@@ -1,4 +1,4 @@
- ![screenshot](https://github.com/DiscordGSM/DiscordGSM/raw/master/images/v1.6.0.png)
+ ![screenshot](https://github.com/DiscordGSM/DiscordGSM/raw/master/images/v1.6.0.png) 
 
 # DiscordGSM
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/DiscordGSM/DiscordGSM/)
