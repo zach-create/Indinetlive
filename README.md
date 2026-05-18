@@ -13,7 +13,7 @@
 2. [Deploy to Heroku](https://github.com/DiscordGSM/DiscordGSM/wiki/Install-%E2%80%93-Deploy-to-Heroku)
 3. [Self Hosting](https://github.com/DiscordGSM/DiscordGSM/wiki/Install-%E2%80%93-Self-Hosting)
 
-## Supported Query Type  
+## Supported Query Type   
 1. [SourceQuery](https://github.com/DiscordGSM/DiscordGSM/wiki/SourceQuery)
 2. [UT3Query](https://github.com/DiscordGSM/DiscordGSM/wiki/UT3Query)
 3. [GamedigQuery](https://github.com/DiscordGSM/DiscordGSM/wiki/GamedigQuery)
