@@ -18,7 +18,7 @@
 2. [UT3Query](https://github.com/DiscordGSM/DiscordGSM/wiki/UT3Query)
 3. [GamedigQuery](https://github.com/DiscordGSM/DiscordGSM/wiki/GamedigQuery)
 
-## Examples
+## Examples 
 Join our discord server to view the examples! https://discord.gg/Cg4Au9T
  
 ## Wiki
