@@ -8,7 +8,7 @@
 
 📺 Monitor your game servers on Discord and tracks the  live data of   your game  servers. Support one-click deployment to Heroku.
 
-## Install
+## Install 
 1. [Invite DiscordGSM](https://github.com/DiscordGSM/DiscordGSM/wiki/Invite-DiscordGSM)
 2. [Deploy to Heroku](https://github.com/DiscordGSM/DiscordGSM/wiki/Install-%E2%80%93-Deploy-to-Heroku)
 3. [Self Hosting](https://github.com/DiscordGSM/DiscordGSM/wiki/Install-%E2%80%93-Self-Hosting)
