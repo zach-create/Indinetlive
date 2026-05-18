@@ -22,7 +22,7 @@
 Join our discord server to view the examples! https://discord.gg/Cg4Au9T
  
 ## Wiki 
-<https://github.com/DiscordGSM/DiscordGSM/wiki>
+<https://github.com/DiscordGSM/DiscordGSM/wiki> 
 
 ## Discord Presence Support
 ![Discord Presence](https://github.com/DiscordGSM/DiscordGSM/raw/master/images/discord-presence.png)
