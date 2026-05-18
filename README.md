@@ -21,7 +21,7 @@
 ## Examples 
 Join our discord server to view the examples! https://discord.gg/Cg4Au9T
  
-## Wiki
+## Wiki 
 <https://github.com/DiscordGSM/DiscordGSM/wiki>
 
 ## Discord Presence Support
