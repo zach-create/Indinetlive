@@ -7,7 +7,7 @@
 [![Discord Shield](https://discordapp.com/api/guilds/680159496584429582/widget.png?style=shield)](https://discord.gg/Cg4Au9T)
 
 📺   Monitor your game servers on Discord and tracks the   live data  of   your game  servers. Support  one-click deployment to Heroku.
-
+ 
 ## Install 
 1. [Invite DiscordGSM](https://github.com/DiscordGSM/DiscordGSM/wiki/Invite-DiscordGSM)
 2. [Deploy to Heroku](https://github.com/DiscordGSM/DiscordGSM/wiki/Install-%E2%80%93-Deploy-to-Heroku)
